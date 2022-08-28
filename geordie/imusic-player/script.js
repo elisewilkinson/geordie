@@ -40,7 +40,7 @@ $(document).ready(function () {
 			title: "Venga",
 			artist: "Summer Mix",
 			cover: "https://wilkinson.b-cdn.net/images/venga.jpg",
-			audioFile: "https://wilkinson.b-cdn.net/venga.mp3",
+			audioFile: "https://dan.wilkinson.best/assets/music/venga.mp3",
 			color: "#5d0126"
 		}
 	];
