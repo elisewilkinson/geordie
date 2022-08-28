@@ -13,7 +13,7 @@ $(document).ready(function () {
 			artist: "Playboi, Carti",
 			cover: "https://geordie.wilkinsonwebsite.uk/geordie/assets/images/jaded.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/1baef4576f5606eb894341167aea53f8.mp3",
-			color: "#c3af50"
+			color: "#25323b"
 		},
 		{
 			title: "Let You Down",
@@ -25,7 +25,7 @@ $(document).ready(function () {
 		{
 			title: "G6",
 			artist: "Far East Movement",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/silence-album-cover.jpg",
+			cover: "https://geordie.wilkinsonwebsite.uk/geordie/assets/images/g6cover.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/c42bf4cf599dd6c660d69dc99506c0b2.mp3",
 			color: "#c1c1c1"
 		},
