@@ -30,17 +30,17 @@ $(document).ready(function () {
 			color: "#c1c1c1"
 		},
 		{
-			title: "I Fall Apart",
-			artist: "Post Malone",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/stoney-cover-album.jpg",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Post%20Malone%20-%20I%20Fall%20Apart.mp3",
+			title: "Smooth Criminal",
+			artist: "Busta, Micheal Jackson",
+			cover: "https://wilkinson.b-cdn.net/images/busta-micheal-jackson2.jpg",
+			audioFile: "https://wilkinson.b-cdn.net/busta.mp3",
 			color: "#cd4829"
 		},
 		{
-			title: "Fireproof",
-			artist: "VAX, Teddy Sky",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/fireproof-album-cover.jpeg",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
+			title: "Venga",
+			artist: "Summer Mix",
+			cover: "https://wilkinson.b-cdn.net/images/venga.jpg",
+			audioFile: "https://wilkinson.b-cdn.net/venga.mp3",
 			color: "#5d0126"
 		}
 	];
