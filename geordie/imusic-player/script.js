@@ -33,7 +33,7 @@ $(document).ready(function () {
 			title: "Smooth Criminal",
 			artist: "Busta, Micheal Jackson",
 			cover: "https://wilkinson.b-cdn.net/images/busta-micheal-jackson2.jpg",
-			audioFile: "https://wilkinson.b-cdn.net/busta.mp3",
+			audioFile: "https://www.brizy.cloud/customfile/3d0426827a7e8ee8fe06a5cfe41f27bc.mp3",
 			color: "#cd4829"
 		},
 		{
