@@ -44,10 +44,10 @@ $(document).ready(function () {
 			color: "#5d0126"
 		},
 		{
-			title: "Fireproof",
-			artist: "VAX, Teddy Sky",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/fireproof-album-cover.jpeg",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
+			title: "I Know There's Something",
+			artist: "Frida",
+			cover: "https://cdn.shopify.com/s/files/1/0130/8714/6043/products/1280sRemixedFrontCover_360x.jpg?v=1642698251",
+			audioFile: "https://www.brizy.cloud/customfile/f49d512e4b0a6892797f7f501110e13d.mp3",
 			color: "#5d0126"   
 		}
 	];
