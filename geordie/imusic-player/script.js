@@ -33,15 +33,22 @@ $(document).ready(function () {
 			title: "Smooth Criminal",
 			artist: "Busta, Micheal Jackson",
 			cover: "https://wilkinson.b-cdn.net/images/busta-micheal-jackson2.jpg",
-			audioFile: "https://dan.wilkinson.best/assets/music/busta.mp3",
+			audioFile: "https://wilkinson.b-cdn.net/busta.mp3",
 			color: "#cd4829"
 		},
 		{
 			title: "Venga",
 			artist: "Summer Mix",
 			cover: "https://wilkinson.b-cdn.net/images/venga.jpg",
-			audioFile: "https://dan.wilkinson.best/assets/music/venga.mp3",
+			audioFile: "https://wilkinson.b-cdn.net/venga.mp3",
 			color: "#5d0126"
+		},
+		{
+			title: "Fireproof",
+			artist: "VAX, Teddy Sky",
+			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/fireproof-album-cover.jpeg",
+			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
+			color: "#5d0126"   
 		}
 	];
 	
