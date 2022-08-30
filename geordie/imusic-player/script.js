@@ -13,7 +13,7 @@ $(document).ready(function () {
 			artist: "Playboi, Carti",
 			cover: "https://geordie.wilkinsonwebsite.uk/geordie/assets/images/jaded.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/1baef4576f5606eb894341167aea53f8.mp3",
-			color: "#25323b"
+			color: "#000000"
 		},
 		{
 			title: "Let You Down",
