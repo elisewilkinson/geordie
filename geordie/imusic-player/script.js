@@ -20,35 +20,35 @@ $(document).ready(function () {
 			artist: "NF",
 			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/perception-album-cover.png",
 			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/NF%20-%20Let%20You%20Down.mp3",
-			color: "#25323b"
+			color: "#000000"
 		},
 		{
 			title: "G6",
 			artist: "Far East Movement",
 			cover: "https://geordie.wilkinsonwebsite.uk/geordie/assets/images/g6cover.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/c42bf4cf599dd6c660d69dc99506c0b2.mp3",
-			color: "#c1c1c1"
+			color: "#000000"
 		},
 		{
 			title: "Smooth Criminal",
 			artist: "Busta, Micheal Jackson",
 			cover: "https://wilkinson.b-cdn.net/images/busta-micheal-jackson2.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/3d0426827a7e8ee8fe06a5cfe41f27bc.mp3",
-			color: "#cd4829"
+			color: "#000000"
 		},
 		{
 			title: "Venga",
 			artist: "Summer Mix",
 			cover: "https://wilkinson.b-cdn.net/images/venga.jpg",
 			audioFile: "https://wilkinson.b-cdn.net/venga.mp3",
-			color: "#5d0126"
+			color: "#000000"
 		},
 		{
 			title: "I Know There's Something",
 			artist: "Frida",
 			cover: "https://cdn.shopify.com/s/files/1/0130/8714/6043/products/1280sRemixedFrontCover_360x.jpg?v=1642698251",
 			audioFile: "https://www.brizy.cloud/customfile/f49d512e4b0a6892797f7f501110e13d.mp3",
-			color: "#5d0126"   
+			color: "#000000"   
 		}
 	];
 	
