@@ -44,9 +44,23 @@ $(document).ready(function () {
 			color: "#000000"
 		},
 		{
+			title: "Dry Your Eyes",
+			artist: "The Streets",
+			cover: "https://a-cloud.b-cdn.net/media/iW=5000&iH=any/7ec71dfabd424d8ca7a1b29f59ebc411.jpg",
+			audioFile: "https://www.brizy.cloud/customfile/944433b3289d93d89f542c0bb97aff18.mp3",
+			color: "#000000"
+		},
+		{
+			title: "Turn Me On",
+			artist: "Kevin Lyttle",
+			cover: "https://a-cloud.b-cdn.net/media/iW=5000&iH=any/7ec71dfabd424d8ca7a1b29f59ebc411.jpg",
+			audioFile: "https://www.brizy.cloud/customfile/1d44498b59b4fbbe55e20296c77eb88a.mp3",
+			color: "#000000"
+		},
+		{
 			title: "I Know There's Something",
 			artist: "Frida",
-			cover: "https://cdn.shopify.com/s/files/1/0130/8714/6043/products/1280sRemixedFrontCover_360x.jpg?v=1642698251",
+			cover: "https://a-cloud.b-cdn.net/media/iW=5000&iH=any/cd2a7132c4a4f0e877bc11fda50518b1.jpg",
 			audioFile: "https://www.brizy.cloud/customfile/f49d512e4b0a6892797f7f501110e13d.mp3",
 			color: "#000000"   
 		}
